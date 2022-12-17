@@ -1,0 +1,60 @@
+﻿3xLogic,admin,12345,192.0.0.64
+Acti,admin,admin,192.168.0.100
+American Dynmics,admin,admin,192.168.1.168
+Arecont Vision,admin,No Set Password,na
+Avigilon,admin,admin,na
+Axis,root,no set password,na
+Basler,admin,admin,192.168.100.x
+Bosch,service,service,192.168.0.1
+Bosch Dinion,admin,No set password,192.168.0.1
+Brickcom,admin,admin,192.168.1.1
+CBC Ganz,admin,admin,192.168.100.x
+Cisco,no default,no set password,192.168.0.100
+CNB,root,admin,192.168.123.100
+Costar,root,root,na
+Dahua,admin,admin,192.168.1.108
+Drs,admin,1234,192.168.0.200
+DVTel,Admin,1234,192.168.0.250
+DynaColor,admin,1234,192.168.0.250
+Flir,admin,fliradmin,192.168.250.116
+Foscam,admin,,na
+GeoVision,admin,admin,192.168.0.10
+Grandstream,admin,admin,192.168.1.168
+GVI,Admin,1234,192.168.0.250
+HIKVision,admin,12345,192.0.0.64
+Honeywell,administrator,1234,na
+IOImage,admin,admin,192.168.123.10
+IPX-DDK,root,Admin or admin,192.168.1.168
+IQInvision,root,system,na
+JVC,admin,Model# of camera,na
+VideoIQ,supervisor,supervisor,na
+LTS Security,admin,12345,192.0.0.64
+March Networks,admin,leave blank,unknown
+Merit Lilin,Camera,admin pass,na
+Merit Lilin,Recorder,admin / 1111,na
+Messoa,admin,Model# of camera,192.168.1.30
+Mobotix,admin,meinsm,No Default / DHCP
+Northern,admin,12345,192.168.1.64
+Panasonic,admin,12345,192.168.0.253
+Panasonic,admin1,password,192.168.0.253
+Pelco,admin,admin,na
+PiXORD,admin,admin,192.168.0.200
+PiXORD,root,pass,192.168.0.200
+QVIS,admin,1234,192.168.0.250
+Samsung,root,4321 / admin,192.168.0.200
+Samsung,admin,4321 / 1111111,192.168.1.200
+Sanyo,admin,admin,192.168.0.2
+Sentry360,Admin,1234,192.168.0.250
+Sony,admin,admin,192.168.0.100
+Speco,root,root,192.168.1.7
+Speco,admin,admin,192.168.1.7
+StarDot,admin,admin,na
+Starvedia,admin,no set password,na
+Toshiba,root,ikwb,192.168.0.30
+Trendnet,admin,admin,192.168.10.1
+UDP,root,unknown,na
+Ubiquiti,ubnt,ubnt,192.168.1.20
+W-Box,admin,wbox / 123,192.0.0.64
+Wodsee,root,leave blank,na
+Verint,admin,admin,na
+Vivotek,root,no set password,na

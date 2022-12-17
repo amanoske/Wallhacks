@@ -1,5 +1,5 @@
 # Wallhacks
-![Wildfire Screenshot](wildfire.gif)
+![Wildfire Screenshot](Wallhack-logo.jpg)
 
 ### "zomg wtf y u toggle dem wall hacks bro."
 **- Some teenager in 2005***

@@ -2,7 +2,7 @@
 ![Wildfire Screenshot](Wallhack-logo.jpg)
 
 ### "zomg wtf y u toggle dem wall hacks bro."
-**- Some teenager in 2005***
+**- Some teenager in 2005**
 
 Wallhacks is a tool to scan for common IP cameras on a local network. It does this by proiscuous packet search: scouring a local subnet for common web portals used to manage IP cameras. Think of it like Shodan's crawler, but instead of something more subtle like a nmap stealth scan it kicked in the door like the Kool-Aid guy and yelled "OH YEAH!"
 

@@ -22,4 +22,4 @@ Wallhacks maintains a list of common IP camera vendors and their default admin c
 
 ### License
 
-Wildfire and its contents are licensed under the [MPL License](https://www.mozilla.org/en-US/MPL/2.0/). 
+Wallhacks and its contents are licensed under the [MPL License](https://www.mozilla.org/en-US/MPL/2.0/). 
